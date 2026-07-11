@@ -5,7 +5,7 @@
 This project analyzes a dataset using Microsoft Excel.
 
 ## Dataset
-The dataset contains: Order ID, order date, customer name, region, product category, purchased product, product ID(s), product price(s), revenue, profit, etc.
+The dataset contains: (to be updated)
 
 ## Tools Used
 - Microsoft Excel
